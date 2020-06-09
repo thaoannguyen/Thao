@@ -1,2 +1,0 @@
-# Thao
-Principal Hardware
